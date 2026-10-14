@@ -1,7 +1,7 @@
 # BoardNet: Board Examination Communication Network
 
 **BoardNet** is a Cisco Packet Tracer networking project designed to simulate a centralized communication infrastructure for six Higher Secondary Certificate (HSC) education boards in Bangladesh: Dhaka, Chattogram, Rajshahi, Barishal, Sylhet, and Khulna.
-
+This is a group project. Done by four members - Mahajabin Chowdhury, Md. Abdul Kaium Chowdhury, Shourov Ahmed, Ahsanul fahim Ahmed.
 The project implements an interconnected network that supports administrative communication and examination-related services through appropriate IP addressing, routing, and server configurations.
 
 ## Key Features
