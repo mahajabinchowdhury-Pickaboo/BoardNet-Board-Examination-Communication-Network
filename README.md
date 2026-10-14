@@ -38,7 +38,6 @@ The project implements an interconnected network that supports administrative co
 - VLSM subnetting tree and IP addressing table
 - Router configuration commands
 - DHCP, DNS, web server, and email server configuration details
-- Group work distribution
 
 **Project Type:** Computer Networking / Network Simulation  
 **Platform:** Cisco Packet Tracer
